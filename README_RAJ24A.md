@@ -7,3 +7,4 @@ While this lab was helpful, I still need to focus on learning and memorizing mor
 
 For my Module 0 lab, I chose to run "Git and Github"
 -----------
+<img width="1265" height="731" alt="lab1part4isc" src="https://github.com/user-attachments/assets/68ff72d6-a777-4292-8ff2-e2a3870c04d2" />
