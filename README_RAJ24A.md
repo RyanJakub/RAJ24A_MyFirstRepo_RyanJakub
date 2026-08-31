@@ -1,7 +1,7 @@
 # RAJ24A_MyFirstRepo_RyanJakub
 **Lab 1 Repository**
 
-Because I am new to Git and GitHub, my main takeaways from the lab involved working with their interfaces. After getting more comfortable with them, I specifically learned how to create, clone, and add files to a repository.
+Because I am new to Git and GitHub, my main takeaways from the lab involved working with their interfaces. After getting more comfortable with them, I specifically learned how to create, clone, and add files to a repository. The majority of the lab was simpler than I had expected, it just took some effort to navigate the website.
 
 While this lab was helpful, I still need to focus on learning and memorizing simple commands. This will help me quickly interpret code, rather than needing outside sources to understand it.
 
